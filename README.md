@@ -2,12 +2,10 @@
 
 I am a Business Intelligence professional focused on transforming data into actionable insights. I have extensive hands-on experience using industry-standard tools such as Excel, SQL, Power BI, and Looker Studio to build interactive dashboards and analyze complex data sets. 
 My practical approach allows me to deliver clear, data-driven solutions that help businesses make better decisions.
-<br>
-<br>
 
 - 📍  I'm based in Lima - Perú
 - 🌐 My website is [gbarrantes25.github.io](http://gbarrantes25.github.io/)
-- 🖥️ See my portfolio at [Github](https://github.com/Gbarrantes25?tab=repositories)
+- 🖥️ See my portfolio at [Github](https://github.com/Gbarrantes25?tab=repositories)<br>
 
 ### Language and tools
 <p align="left">
