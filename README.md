@@ -1,67 +1,36 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gian
 
-###
+I am a Business Intelligence professional focused on transforming data into actionable insights. Although I am self-taught and do not have a university degree, I have extensive hands-on experience using industry-standard tools such as Excel, SQL, Power BI, and Looker Studio to build interactive dashboards and analyze complex data sets. 
+My practical approach allows me to deliver clear, data-driven solutions that help businesses make better decisions.
+<br>
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+- 🌍 I'm based in Lima - Perú
+- 🖥️ See my portfolio at [gbarrantes25.github.io](http://gbarrantes25.github.io/)
 
-###
+### Language and tools
+<p align="left">
+<img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="36px" alt="Power BI" title="Power BI">
+<img src="https://img.icons8.com/?size=100&id=JChkA69vF7Lo&format=png&color=000000" width="36px" alt="Microsoft Excel" title="Microsoft Excel">
+<img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" width="36px" alt="Looker Studio" title="Looker Studio">
+<img src="https://img.icons8.com/?size=100&id=6yIWVyFTE0no&format=png&color=000000" width="36px" alt="Google Sheets" title="Google Sheets">
+<img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" width="36px" alt="MySql" title="MySql">
+<img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="36px" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="36px" alt="Microsoft SQL Server" title="Microsoft SQL Server">
+<img src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" width="36px" alt="Jupyter Noteebook" title="Jupyter Noteebook">
+<img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" width="36px" alt="Miniconda" title="Miniconda">
+<img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="36px" alt="Google Colab" title="Google Colab">
+<img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" width="36px" alt="Supabase" title="Supabase">
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="36px" alt="Python" title="Python">
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36px" alt="Visual Studio Code" title="Visual Studio Code">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="36px" alt="HTML5" title="HTML5">
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="36px" alt="CSS3" title="CSS3">
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+### Socials
+<p align="left"> <a href="https://www.github.com/Gbarrantes25" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/gb25" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@gbarrantes25" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+<a href="https://www.github.com/Gbarrantes25" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Gbarrantes25?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+### GitHub Stats
+<a href="http://www.github.com/Gbarrantes25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbarrantes25&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
