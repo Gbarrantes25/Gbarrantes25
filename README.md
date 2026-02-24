@@ -16,15 +16,16 @@ My practical approach allows me to deliver clear, data-driven solutions that hel
 <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" width="36px" alt="MySql" title="MySql">
 <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="36px" alt="PostgreSQL" title="PostgreSQL">
 <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="36px" alt="Microsoft SQL Server" title="Microsoft SQL Server">
-<img src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" width="36px" alt="Jupyter Noteebook" title="Jupyter Noteebook">
-<img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" width="36px" alt="Miniconda" title="Miniconda">
-<img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="36px" alt="Google Colab" title="Google Colab">
 <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" width="36px" alt="Supabase" title="Supabase">
-<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="36px" alt="Python" title="Python">
 <img src="https://img.icons8.com/?size=100&id=oWP3K3ZMuSZA&format=png&color=000000" width="36px" alt="Microsoft Access" title="Microsoft Access">
 <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36px" alt="Visual Studio Code" title="Visual Studio Code">
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="36px" alt="HTML5" title="HTML5">
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="36px" alt="CSS3" title="CSS3">
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="36px" alt="Javascript" title="Javascript">
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="36px" alt="Python" title="Python">
+<img src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" width="36px" alt="Jupyter Noteebook" title="Jupyter Noteebook">
+<img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" width="36px" alt="Miniconda" title="Miniconda">
+<img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="36px" alt="Google Colab" title="Google Colab">
 </p>
 
 ### Socials
