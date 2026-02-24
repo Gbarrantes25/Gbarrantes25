@@ -22,6 +22,7 @@ My practical approach allows me to deliver clear, data-driven solutions that hel
 <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="36px" alt="Google Colab" title="Google Colab">
 <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" width="36px" alt="Supabase" title="Supabase">
 <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="36px" alt="Python" title="Python">
+<img src="https://iconos8.es/icon/JdOSrU3pawBf/microsoft-access-2019" width="36px" alt="Microsoft Access" title="Microsoft Access">
 <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36px" alt="Visual Studio Code" title="Visual Studio Code">
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="36px" alt="HTML5" title="HTML5">
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="36px" alt="CSS3" title="CSS3">
