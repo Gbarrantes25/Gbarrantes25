@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gian
 
-I am a Business Intelligence professional focused on transforming data into actionable insights. Although I am self-taught and do not have a university degree, I have extensive hands-on experience using industry-standard tools such as Excel, SQL, Power BI, and Looker Studio to build interactive dashboards and analyze complex data sets. 
+I am a Business Intelligence professional focused on transforming data into actionable insights. I have extensive hands-on experience using industry-standard tools such as Excel, SQL, Power BI, and Looker Studio to build interactive dashboards and analyze complex data sets. 
 My practical approach allows me to deliver clear, data-driven solutions that help businesses make better decisions.
 <br>
 <br>
