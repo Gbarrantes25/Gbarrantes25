@@ -4,7 +4,7 @@ I am a Business Intelligence professional focused on transforming data into acti
 My practical approach allows me to deliver clear, data-driven solutions that help businesses make better decisions.
 
 - 📍  I'm based in Lima - Perú
-- 🌐 My website is [gbarrantes25.github.io](http://gbarrantes25.github.io/)
+- 🌐 My website is <a href="http://gbarrantes25.github.io/" target="_blank">http://gbarrantes25.github.io/</a>
 - 🖥️ See my portfolio at [Github](https://github.com/Gbarrantes25?tab=repositories)<br>
 
 ### Language and tools
