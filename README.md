@@ -17,6 +17,7 @@ My practical approach allows me to deliver clear, data-driven solutions that hel
 <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="36px" alt="PostgreSQL" title="PostgreSQL">
 <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="36px" alt="Microsoft SQL Server" title="Microsoft SQL Server">
 <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" width="36px" alt="Supabase" title="Supabase">
+<img src="https://github.com/user-attachments/assets/09610162-0833-4ffe-9ad2-3c3d4fe85ab2" width="36px" alt="Neon" title="Neon"/>
 <img src="https://img.icons8.com/?size=100&id=oWP3K3ZMuSZA&format=png&color=000000" width="36px" alt="Microsoft Access" title="Microsoft Access">
 <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36px" alt="Visual Studio Code" title="Visual Studio Code">
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="36px" alt="HTML5" title="HTML5">
