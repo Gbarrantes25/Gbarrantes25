@@ -27,6 +27,12 @@ My practical approach allows me to deliver clear, data-driven solutions that hel
 <img src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" width="36px" alt="Jupyter Noteebook" title="Jupyter Noteebook">
 <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" width="36px" alt="Miniconda" title="Miniconda">
 <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="36px" alt="Google Colab" title="Google Colab">
+<img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="36px" alt="Streamlit" title="Streamlit">
+<img src="https://img.icons8.com/?size=100&id=7uogTXb7bwK8&format=png&color=000000" width="36px" alt="Plotly" title="Plotly">
+<img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="36px" alt="Pandas" title="Pandas">
+<img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" width="36px" alt="Matplotlib" title="Matplotlib">
+<img src="https://github.com/marimo-team/marimo/blob/main/frontend/public/android-chrome-192x192.png" width="36px" alt="Marimo" title="Marimo">
+<img src="https://docs.astral.sh/uv/assets/logo-letter.svg" width="36px" alt="UV" title="UV">
 </p>
 
 ### Socials
